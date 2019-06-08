@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Additios to second line.
 Another chnage while divergent branching.
 Chamges to alice.
+=======
+Someone else working on Alice.txt.
+>>>>>>> 8e581677ca657efa19dc7aa1fbb7bf299879eb85
